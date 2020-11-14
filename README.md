@@ -36,7 +36,7 @@ On contribution we follow atlassian tutorial [Git Feature Branch Workflow.](http
 * Clone the repository 
     * ```git clone https://github.com/tominkki/git-workflow-exercise.git```
 
-* Set up the project
+* [Set up the project](#setting-up-the-project)
 
 * Create a branch for your new feature 
     * ```git checkout -b <my-feature>```
@@ -56,7 +56,3 @@ On contribution we follow atlassian tutorial [Git Feature Branch Workflow.](http
         * ```feat: <my-feature>```
     * Add short description about new feature
     * Submit your PR! If everything is fine it will be merged to master.
-
-# Collaborators
-* @tominkki
-* @BoltVolta
