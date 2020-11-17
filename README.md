@@ -6,7 +6,15 @@ This repository is school assignment for course 5G00ET62-3002. Repository contai
 * [Robot Framework](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
 * [SeleniumLibrary](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html)
 # Features
-_TBA_
+
+## [Test for registration](register.robot)
+
+Simple test for user registration. Test ensures that registration is possible with valid details. This test **does not** ensure that registration fails with invalid details.
+
+### Usage
+* [Set up the project](#setting-up-the-project)
+* Run test: ```robot register.robot```
+    * NOTE! You might have to change the ```${EMAIL}``` variable as the site seems to save users in database
 
 # Setting up the project
 
