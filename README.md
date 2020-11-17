@@ -7,7 +7,7 @@ This repository is school assignment for course 5G00ET62-3002. Repository contai
 * [SeleniumLibrary](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html)
 # Features
 
-## [Test for registration](register.robot)
+## [Test for registration](/tests/register.robot)
 
 Simple test for user registration. Test ensures that registration is possible with valid details. This test **does not** ensure that registration fails with invalid details.
 
